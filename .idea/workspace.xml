@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3763cf4-d31c-4989-a48d-a64b2f4a18ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/cv_shaian.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/cv_shaian_rus.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/my-photo/me.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.php" beforeDir="false" afterPath="$PROJECT_DIR$/data.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_ru.php" beforeDir="false" afterPath="$PROJECT_DIR$/data_ru.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/cv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/background/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/background/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/know_more.php" beforeDir="false" afterPath="$PROJECT_DIR$/know_more.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skills.php" beforeDir="false" afterPath="$PROJECT_DIR$/skills.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fwyllJAJusswG4variLVX4KQqg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\www\www\shaian" />
+      <recent name="C:\www\www\shaian\demos\bookshelf\images" />
+      <recent name="C:\www\www\shaian\demos\bookshelf" />
+      <recent name="C:\www\www\shaian\demos\oprosnik" />
+      <recent name="C:\www\www\shaian\demos\oprosnik\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\www\www\shaian\img\my-photo" />
+      <recent name="C:\www\www\shaian\img\background" />
+      <recent name="C:\www\www\shaian\docs" />
+      <recent name="C:\www\www\shaian\img\portfolio" />
+      <recent name="C:\www\www\shaian\demos\bookshelf\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3763cf4-d31c-4989-a48d-a64b2f4a18ae" name="Default Changelist" comment="" />
+      <created>1597143602708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597143602708</updated>
+      <workItem from="1597143603890" duration="7093000" />
+      <workItem from="1597223895920" duration="658000" />
+      <workItem from="1597224711927" duration="2193000" />
+      <workItem from="1597309916134" duration="55000" />
+      <workItem from="1597908225453" duration="10389000" />
+      <workItem from="1597994343263" duration="13036000" />
+      <workItem from="1598009643197" duration="117000" />
+      <workItem from="1598009776063" duration="193000" />
+      <workItem from="1598078430646" duration="1575000" />
+      <workItem from="1598080177017" duration="1564000" />
+      <workItem from="1598186530548" duration="508000" />
+      <workItem from="1599034774135" duration="2414000" />
+      <workItem from="1599101289856" duration="57000" />
+      <workItem from="1599123458164" duration="6699000" />
+      <workItem from="1599187191201" duration="4000" />
+      <workItem from="1599446799962" duration="439000" />
+      <workItem from="1599469794514" duration="888000" />
+      <workItem from="1599471141184" duration="73000" />
+      <workItem from="1599472657629" duration="5636000" />
+      <workItem from="1599564802690" duration="16000" />
+      <workItem from="1599620875816" duration="597000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finished both languages">
+      <created>1598009509881</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598009509881</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finished both languages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished both languages" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="168" key="#Deployment" timestamp="1598078864051">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="168" key="#Deployment/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1598078864051" />
+    <state x="592" y="319" key="#Images" timestamp="1597997169789">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="592" y="319" key="#Images/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597997169789" />
+    <state x="432" y="168" key="#Intentions" timestamp="1597226218183">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="168" key="#Intentions/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597226218183" />
+    <state x="465" y="77" key="CommitChangelistDialog2" timestamp="1598009509078">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="465" y="77" key="CommitChangelistDialog2/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1598009509078" />
+    <state x="620" y="251" key="FileChooserDialogImpl" timestamp="1597997169400">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="620" y="251" key="FileChooserDialogImpl/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1597997169400" />
+    <state x="674" y="433" key="NewPhpFileDialog" timestamp="1598002163467">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="674" y="433" key="NewPhpFileDialog/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1598002163467" />
+    <state x="341" y="155" key="SettingsEditor" timestamp="1598079609448">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="341" y="155" key="SettingsEditor/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1598079609448" />
+    <state x="432" y="243" key="Vcs.Push.Dialog.v2" timestamp="1598009512025">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="243" key="Vcs.Push.Dialog.v2/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1598009512025" />
+    <state x="547" y="243" width="585" height="534" key="find.popup" timestamp="1599469915033">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="547" y="243" width="585" height="534" key="find.popup/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1599469915033" />
+    <state x="685" y="240" key="ftp.server.browser" timestamp="1598078795794">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="685" y="240" key="ftp.server.browser/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1598078795794" />
+  </component>
+</project>
